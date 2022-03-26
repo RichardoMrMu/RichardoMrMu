@@ -48,11 +48,23 @@ Here are some ideas to get you started:
 </p>
 
 
-<br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RichardoMrMu&hide=prs&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+ <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RichardoMrMu&hide=prs&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)-->
+<b>
+    <image src="https://github-readme-stats.vercel.app/api?username=RichardoMrMu&show_icons=true&&count_private=true&show_icons=true&theme=chartreuse-dark" width=400>
+    </image>
+</b>
+<b>
+    <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardoMrMu&layout=compact&theme=chartreuse-dark&hide=html" width=400></image>
+</b>
 
-<br>
+<br></br>
+
+<image src="https://github-profile-trophy.vercel.app/?username=RichardoMrMu&theme=dracula"/>
+<br></br>
+
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="320" />
+
 
 ## 📌 Pinned repos 📌
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RichardoMrMu&repo=yolov5-deepsort-tensorrt&theme=chartreuse-dark)](https://github.com/RichardoMrMu/yolov5-deepsort-tensorrt)
