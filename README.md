@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 <br>
 
 ## 📌 Pinned repos 📌
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RichardoMrMul&repo=yolov5-deepsort-tensorrt&theme=chartreuse-dark)](https://github.com/RichardoMrMu/yolov5-deepsort-tensorrt)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RichardoMrMu&repo=yolov5-deepsort-tensorrt&theme=chartreuse-dark)](https://github.com/RichardoMrMu/yolov5-deepsort-tensorrt)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RichardoMrMu&repo=facial-emotion-recognition&theme=chartreuse-dark)](https://github.com/RichardoMrMu/facial-emotion-recognition)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RichardoMrMu&repo=yolov5-fire-smoke-detect-python&theme=chartreuse-dark)](https://github.com/RichardoMrMu/yolov5-fire-smoke-detect-python)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RichardoMrMu&repo=yolov5-helmet-detection&theme=chartreuse-dark)](https://github.com/RichardoMrMu/yolov5-helmet-detection)
