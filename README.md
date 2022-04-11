@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <div align="center">
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fengcang&count_bg=%23D775D5&title_bg=%23434746&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
-![](https://activity-graph.herokuapp.com/graph?username=RichardoMrMu&theme=github-light)
+
 
 ## Interest 😮
 
@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 <br></br>
 
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="320" />
-
+![](https://activity-graph.herokuapp.com/graph?username=RichardoMrMu&theme=github-light)
 
 ## 📌 Pinned repos 📌
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RichardoMrMu&repo=yolov5-deepsort-tensorrt&theme=chartreuse-dark)](https://github.com/RichardoMrMu/yolov5-deepsort-tensorrt)
