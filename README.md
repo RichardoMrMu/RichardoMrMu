@@ -66,6 +66,8 @@ Here are some ideas to get you started:
 <br></br>
 
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="320" />
+
+
 ![](https://activity-graph.herokuapp.com/graph?username=RichardoMrMu&theme=github-light)
 
 ## 📌 Pinned repos 📌
