@@ -14,7 +14,7 @@ My current focus:
 - **SGLang:** [speculative decoding tracing](https://github.com/sgl-project/sglang/pull/19545) and [chunked-prefill observability work](https://github.com/sgl-project/sglang/pull/25365).
 - **vLLM:** [OpenTelemetry request-attribute propagation](https://github.com/vllm-project/vllm/pull/20372).
 - **LoongSuite:** Agent telemetry context-isolation fixes for [Hermes](https://github.com/alibaba/loongsuite-python/pull/184) and [AgentScope ReAct](https://github.com/alibaba/loongsuite-python/pull/187).
-- **OpenDerisk:** observability improvements in [#128](https://github.com/derisk-ai/OpenDerisk/pull/130).
+- **OpenDerisk:** observability improvements in [#128](https://github.com/derisk-ai/OpenDerisk/pull/128) and [#130](https://github.com/derisk-ai/OpenDerisk/pull/130).
 
 ## Current maintenance themes
 
